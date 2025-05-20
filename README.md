@@ -27,6 +27,7 @@
 
 - `/docs`: Documentação do projeto
 - `/src`: Código-fonte da aplicação
+- `/images-project`: Capturas de tela do projeto
 - `/diario`: Registros semanais do progresso
 - `/relatorios`: Relatórios de entrega parcial e final
 - `/reunioes`: Atas de reuniões e retrospectivas
