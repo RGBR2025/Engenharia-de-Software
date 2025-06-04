@@ -37,7 +37,7 @@ Em breve!
 
 ## Status do Projeto
 
-Em progresso: início do processo de prototipação.
+Em progresso: início da construção do FrontEnd.
 
 ## Entregas
 
