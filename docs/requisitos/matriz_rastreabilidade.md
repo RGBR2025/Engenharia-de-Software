@@ -4,13 +4,11 @@
 
 | Data       | Versão | Descrição                | Autor  |
 | ---------- | ------ | ------------------------ | ------ |
-| DD/MM/AAAA | 1.0    | Versão inicial           | [Nome] |
-| DD/MM/AAAA | 1.1    | [Descrição da alteração] | [Nome] |
+| 15/03/2025 | 1.0    | Versão inicial           | Guilherme Matos |
 
 ## 1. Introdução
 
-Este documento apresenta a matriz de rastreabilidade dos requisitos do sistema, permitindo visualizar as relações entre requisitos, casos de uso, componentes do sistema e casos de teste.
-
+Este documento apresenta a matriz de rastreabilidade dos requisitos do nosso sistema BuscaPet, permitindo visualizar as relações entre requisitos, casos de uso, componentes do sistema e casos de teste. A matriz garante controle de mudanças e facilita a análise de impacto durante o desenvolvimento do projeto.
 ## 2. Matriz de Rastreabilidade
 
 ### 2.1 Requisitos x Casos de Uso
@@ -51,14 +49,27 @@ Este documento apresenta a matriz de rastreabilidade dos requisitos do sistema, 
 
 ## 3. Análise de Impacto
 
-Esta seção descreve o processo para análise de impacto de mudanças nos requisitos:
+Para mudanças em requisitos, o processo de análise de impacto será o seguinte:
 
-1. Identificar o requisito a ser alterado
-2. Consultar a matriz para verificar todos os elementos relacionados
-3. Avaliar o impacto da mudança em cada elemento relacionado
-4. Documentar a análise de impacto
-5. Obter aprovação para a mudança
-6. Atualizar todos os artefatos afetados
+Identificar o requisito afetado.
+
+Consultar as tabelas da matriz para encontrar:
+
+Casos de uso impactados;
+
+Componentes afetados;
+
+Casos de teste relacionados;
+
+Requisitos dependentes.
+
+Avaliar tecnicamente e funcionalmente as consequências da alteração.
+
+Documentar a análise de impacto em ata ou sistema de gestão de requisitos.
+
+Submeter à aprovação do gerente de projeto ou partes interessadas.
+
+Atualizar todos os artefatos relacionados (documentos, código, testes).
 
 >[!IMPORTANT]
 >A matriz de rastreabilidade deve ser mantida atualizada durante todo o ciclo de desenvolvimento para garantir a integridade do sistema.
