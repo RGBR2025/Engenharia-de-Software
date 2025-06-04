@@ -14,7 +14,7 @@ Definir a arquitetura usada na construção do software
 
 ### 1.2 Escopo
 
-[Descrição do escopo da arquitetura]
+Utilizando a arquitetura MVP para separar a interface (View), lógica de apresentação (Presenter) e acesso a dados (Model). Usando Next.js e TailwindCSS no frontend. O backend gerencia dados com APIs e bancos de dados como MongoDB. A arquitetura atende os princípios SOLID.
 
 ### 1.3 Definições, Acrônimos e Abreviações
 
@@ -48,15 +48,15 @@ As áreas (Model, View e Presentter), não pode depender uma da outras. O model 
 
 ### 5.1 Visão Geral
 
-[Descrição geral da organização lógica do sistema]
+Construida usando Next.js para uma melhor renderização.
 
 ### 5.2 Pacotes de Design Significativos
 
-[Descrição dos pacotes/módulos principais]
+O design padrão do framework de CSS, TailwindCSS é uma excelente 'pacote' usado no desenvolvimento.
 
 ### 5.3 Diagramas de Classes
 
-[Diagramas ou referências para os diagramas]
+Não conseguimos abrí-lo/importá-los!
 
 ## 6. Visão de Processos
 
@@ -86,7 +86,7 @@ Por meio de hospedagem de APIs, banco de dados(MongooDB).
 
 ### 9.1 Modelo de Dados
 
-[Descrição ou referência para o modelo de dados]
+É composto por: Usuários, posts, mensagens, notificações etc.
 
 ## 10. Tamanho e Performance
 
