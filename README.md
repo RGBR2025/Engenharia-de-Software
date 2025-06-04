@@ -21,7 +21,6 @@
 - Frontend - React.js, Next.js, Tailwind CSS
 - Backend - Node.js, Express
 - Banco de Dados - MongoDB
-- Outros - JWT
 
 ## Estrutura do Repositório
 

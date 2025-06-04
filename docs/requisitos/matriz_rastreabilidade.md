@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição                | Autor  |
 | ---------- | ------ | ------------------------ | ------ |
-| 15/03/2025 | 1.0    | Versão inicial           | Guilherme Matos |
+| 13/05/2025 | 1.0    | Versão inicial           | Guilherme Matos |
 
 ## 1. Introdução
 
