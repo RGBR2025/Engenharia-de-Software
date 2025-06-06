@@ -44,7 +44,7 @@ Abra em seu navegador: http://localhost:3000/
 
 ## Status do Projeto
 
-Em progresso: início da construção do FrontEnd.
+Em progresso: construção do FrontEnd.
 
 ## Entregas
 
