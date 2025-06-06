@@ -33,7 +33,14 @@
 
 ## Como Executar o Projeto
 
-Em breve!
+Entre no link que se encontra dentro do arquivo Projeto.md;
+Baixe o arquivo;
+Extraia-o;
+Abra o Visual Studio Code;
+Abra a pasta 'BuscaPet' (Que contém todos os arquivos necessários) no VS Code;
+Abra um terminal com cmd;
+Execute: npm run dev;
+Abra em seu navegador: http://localhost:3000/ 
 
 ## Status do Projeto
 
